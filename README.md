@@ -13,17 +13,16 @@ Solara:
 <https://getsolara.dev>
 ![1000003601](https://github.com/user-attachments/assets/a98b15ed-02f3-43a7-b682-7c76522aada2)
 
-Xeno (OPEN SOURCE, RECCOMENDED)
-<https://github.com/rlz-ve/x/releases/download/1.0.9-New/Xeno-v1.0.9-x64-New.zip>
+[Xeno](https://github.com/rlz-ve/x/releases/download/1.0.9-New/Xeno-v1.0.9-x64-New.zip)
 OR
-<https://discord.gg/getxeno>
+[Their Discord](https://discord.gg/getxeno)
 ![1000003596](https://github.com/user-attachments/assets/e1d71229-0599-4e09-8923-2efe21cc1a23)
 
 # Mobile executors
-<https://discord.gg/deltaex>
+[Delta](https://discord.gg/deltaex)
 ![1000003598](https://github.com/user-attachments/assets/c61d419c-a514-44d4-8c2f-f17b95acde22)
 
 
-That's all i recommend.
+That's all i recommend, Here's an random image i saved.
 ㅤ
 ![1000003221](https://github.com/user-attachments/assets/88c92176-d6bb-4ab1-8424-f75856b38ccc)
