@@ -17,7 +17,8 @@ Celery:
 
 Xeno (OPEN SOURCE, RECCOMENDED)
 <https://github.com/rlz-ve/x/releases/download/1.0.9-New/Xeno-v1.0.9-x64-New.zip>
-Alternately:
+OR
+
 <https://discord.gg/getxeno>
 
 # Mobile executors
@@ -26,3 +27,4 @@ Alternately:
 
 
 ㅤ
+![1000003221](https://github.com/user-attachments/assets/88c92176-d6bb-4ab1-8424-f75856b38ccc)
