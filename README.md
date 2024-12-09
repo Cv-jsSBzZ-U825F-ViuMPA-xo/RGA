@@ -9,8 +9,7 @@
 
 
 # PC Executors 💻
-Solara:
-<https://getsolara.dev>
+[Solara](https://getsolara.dev)
 ![1000003601](https://github.com/user-attachments/assets/a98b15ed-02f3-43a7-b682-7c76522aada2)
 
 [Xeno](https://github.com/rlz-ve/x/releases/download/1.0.9-New/Xeno-v1.0.9-x64-New.zip)
@@ -18,10 +17,14 @@ OR
 [Their Discord](https://discord.gg/getxeno)
 ![1000003596](https://github.com/user-attachments/assets/e1d71229-0599-4e09-8923-2efe21cc1a23)
 
-# Mobile executors
+# Mobile executors 📱
 [Delta](https://discord.gg/deltaex)
 ![1000003598](https://github.com/user-attachments/assets/c61d419c-a514-44d4-8c2f-f17b95acde22)
 
+Now, What would I recommend? If your on PC, Xeno.
+It is built on an open source executor, And is open source itself.
+It has the lowest chance of being a RAT than any of the others, Even if they are trusted, Because this is open sourced.
+But, What you prefer is what you prefer, Try them out and find what you like.
 
 That's all i recommend, Here's an random image i saved.
 ㅤ
