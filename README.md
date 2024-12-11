@@ -23,5 +23,5 @@ I dont have the executor Opened image as of now.
 
 # Mobile executors 📱
 [Delta](https://discord.gg/deltaex)
-![1000003598](https://github.com/user-attachments/assets/c61d419c-a514-44d4-8c2f-f17b95acde22)
+![1000003700](https://github.com/user-attachments/assets/22ba4702-77c3-4fa2-afb4-7b975862b0fd)
 
