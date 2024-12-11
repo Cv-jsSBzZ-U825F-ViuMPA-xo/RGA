@@ -18,7 +18,9 @@ OR
 [Luna](https://discord.gg/getluna)
 ![1000003641](https://github.com/user-attachments/assets/40a942ff-0c1f-488c-b55e-545f90ca868c)
 [SynapseZ](https://synapsez.net/)
-no image as of now.
+I dont have the executor Opened image as of now.
+![1000003699](https://github.com/user-attachments/assets/76aaef6f-78df-43e3-b040-6c8f697e08c5)
+
 # Mobile executors 📱
 [Delta](https://discord.gg/deltaex)
 ![1000003598](https://github.com/user-attachments/assets/c61d419c-a514-44d4-8c2f-f17b95acde22)
