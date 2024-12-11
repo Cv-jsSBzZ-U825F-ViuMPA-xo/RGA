@@ -1,6 +1,7 @@
 
 > [!IMPORTANT]  
 > WHAT ISN'T LISTED IS EITHER UNKNOWN OR NOT RECOMMEND. Such as wave.
+> THESE ARE **HANDPICKED** AND PROVEN TO BE **SAFE**.
 
 > [!WARNING]  
 > Every executor is detected, Including this list. There are no "undetected" executors that are public as far as i know.
@@ -20,6 +21,9 @@ OR
 [SynapseZ](https://synapsez.net/)
 I dont have the executor Opened image as of now.
 ![1000003699](https://github.com/user-attachments/assets/76aaef6f-78df-43e3-b040-6c8f697e08c5)
+
+[Zorara](discord.gg/realzorara)
+![1000003702](https://github.com/user-attachments/assets/7e9e7c9b-5032-408e-b596-0cd87d09760a)
 
 # Mobile executors 📱
 [Delta](https://discord.gg/deltaex)
