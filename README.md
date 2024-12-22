@@ -11,9 +11,9 @@
 # PC Executors 💻
 [Solara](https://getsolara.dev)
 ![1000003601](https://github.com/user-attachments/assets/a98b15ed-02f3-43a7-b682-7c76522aada2)
-$${\color{red}Free}$$
-* Free
-ㅤ$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+```diff
++ Free
+```
 
 ㅤ
 
