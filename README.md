@@ -84,6 +84,8 @@ I dont have the executor Opened image as of now.
 ```
 
 [Swift](https://getswift.xyz)
+![1000006055](https://github.com/user-attachments/assets/fc18390c-771c-4e4d-852f-8e2bb3004645)
+-# Sorry, Cant find a higher quality picture.
 ```diff
 + ~90% sUNC
 + Good Injection speed 
