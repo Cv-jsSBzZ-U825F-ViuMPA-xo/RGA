@@ -34,7 +34,7 @@ OR
 + Keyless
 + Extremely fast Injection (.1 sec)
 + Previously open source
-+ Very fast interfacd
++ Very fast interface
 
 - Low UNC 
 ```
@@ -74,6 +74,8 @@ I dont have the executor Opened image as of now.
 [Zorara](discord.gg/realzorara)
 ![1000003702](https://github.com/user-attachments/assets/7e9e7c9b-5032-408e-b596-0cd87d09760a)
 
+
+
 ```diff
 + ~40% sUNC
 + Good Injection speed 
@@ -81,8 +83,15 @@ I dont have the executor Opened image as of now.
 - Key system
 ```
 
-ㅤ
-ㅤ
+[Swift](https://getswift.xyz)
+```diff
++ ~90% sUNC
++ Good Injection speed 
+
+- Extremely unstable
+- Key system
+```
+
 # Mobile executors 📱
 [Delta](https://discord.gg/deltaex)
 ![1000003700](https://github.com/user-attachments/assets/22ba4702-77c3-4fa2-afb4-7b975862b0fd)
