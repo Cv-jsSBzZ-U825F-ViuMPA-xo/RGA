@@ -93,7 +93,17 @@ I dont have the executor Opened image as of now.
 - Extremely unstable
 - Key system
 ```
+# AWP
+[Download](https://discord.gg/awpgg)
+![1000023705](https://github.com/user-attachments/assets/814c1665-c8c4-43d2-9b02-2a3b79966823)
 
+```diff
++ 100% sUNC and UNC
+? Marketed as "Undetected"
++ Fast interface
+
+- Owner has shady history of exit scamming (Owner of krampus)
+```
 # Mobile executors 📱
 # Delta
 [Download](https://discord.gg/deltaex)
