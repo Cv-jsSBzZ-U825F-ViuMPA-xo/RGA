@@ -23,9 +23,8 @@
 
 ㅤ
 
-[Xeno](https://github.com/rlz-ve/x/releases/download/1.0.9-New/Xeno-v1.0.9-x64-New.zip)
-OR
-[Their Discord](https://discord.gg/getxeno)
+
+[Their Discord with the download](https://discord.gg/getxeno)
 
 ![1000003596](https://github.com/user-attachments/assets/e1d71229-0599-4e09-8923-2efe21cc1a23)
 ```diff
@@ -77,7 +76,8 @@ I dont have the executor Opened image as of now.
 
 
 ```diff
-+ ~40% sUNC
++ ~80% sUNC on legacy
++ 100% sUNC and UNC on latest
 + Good Injection speed 
 
 - Key system
@@ -87,7 +87,7 @@ I dont have the executor Opened image as of now.
 ![1000006055](https://github.com/user-attachments/assets/fc18390c-771c-4e4d-852f-8e2bb3004645)
 -# Sorry, Cant find a higher quality picture.
 ```diff
-+ ~90% sUNC
++ ~97% sUNC
 + Good Injection speed 
 
 - Extremely unstable
