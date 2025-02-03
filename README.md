@@ -16,9 +16,8 @@
 + ~70 sUNC
 + Keyless
 + Decently responsive interface
++ Decent Injection Speed
 
-- Slow Injection
-- Tabs break if script is above 3k lines (Stops saving aswell)
 ```
 
 ㅤ
