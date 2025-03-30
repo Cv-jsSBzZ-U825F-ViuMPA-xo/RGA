@@ -111,9 +111,22 @@ I dont have the executor Opened image as of now.
 
 ```diff
 + ~100% sUNC
-+ Good Injection speed 
++ AutoInject
++ Supports almost every script
 
 - Key system
+- Not good for script creators
 ```
 
+# KRNL
+[Download](https://krnl.cat)
 
+```diff
++ ~100% sUNC
++ AutoInject
++ Beautiful UI interface
++ Key system being a single click only
++ Perfect for script creators
+
+- Sometimes cant support heavy scripts or scripts that use http
+```
